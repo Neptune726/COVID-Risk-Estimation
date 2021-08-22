@@ -1,2 +1,10 @@
 # COVID-Risk-Estimation
-With the emergence of highly contagious COVID-19 variants such a the Delta Variant, there has been a renewed debate about masks, vaccines, and the risks of reopening. So we created this a [notebook](https://github.com/Neptune726/COVID-Risk-Estimation/blob/main/covid-risk-estimation.ipynb) for roughly estimating the probability of contracting COVID given various factors, such as the number of contacts per day, vaccine status, etc. Binder link for this notebook:
+With the emergence of highly contagious COVID-19 variants such a the Delta Variant, there has been a renewed debate about masks, vaccines, and the risks of reopening. So we created this a [notebook](https://github.com/Neptune726/COVID-Risk-Estimation/blob/main/covid-risk-estimation.ipynb) for roughly estimating the probability of contracting COVID given various factors, such as the number of contacts per day, vaccine status, etc. 
+
+The binder link for this notebook is: 
+https://mybinder.org/v2/gh/Neptune726/COVID-Risk-Estimation/c1ae0edd32107611ce2a63b1e2f05257edaeb112?filepath=covid-risk-estimation.ipynb
+
+Instructions are in the notebook, they can also be found here:
+
+The methdology is detailed in the notebook as well, it can also be found here:
+
