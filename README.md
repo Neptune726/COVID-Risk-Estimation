@@ -1,1 +1,2 @@
 # COVID-Risk-Estimation
+With the emergence of highly contagious COVID-19 variants such a the Delta Variant, there has been a renewed debate about masks, vaccines, and the risks of reopening. So we created this a [notebook](https://github.com/Neptune726/COVID-Risk-Estimation/blob/main/covid-risk-estimation.ipynb) for roughly estimating the probability of contracting COVID given various factors, such as the number of contacts per day, vaccine status, etc. Binder link for this notebook:
