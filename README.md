@@ -4,7 +4,7 @@ With the emergence of highly contagious COVID-19 variants such a the Delta Varia
 The binder link for this notebook is: 
 https://mybinder.org/v2/gh/Neptune726/COVID-Risk-Estimation/c1ae0edd32107611ce2a63b1e2f05257edaeb112?filepath=covid-risk-estimation.ipynb
 
-Instructions are in the notebook, they can also be found here:
+Instructions are in the notebook, they can also be found here: https://github.com/Neptune726/COVID-Risk-Estimation/blob/main/Instructions.pdf
 
-The methdology is detailed in the notebook as well, it can also be found here:
+The methdology is detailed in the notebook as well, it can also be found here: https://github.com/Neptune726/COVID-Risk-Estimation/blob/main/methodology.pdf
 
